@@ -12,7 +12,7 @@
         ><span class="caption">Select</span> <br />Category</v-toolbar-title
       > -->
   
-      <!-- <v-divider vertical class="ml-5"></v-divider> -->
+      <v-divider vertical class="ml-5"></v-divider>
       <div
         style="
           position: absolute;
