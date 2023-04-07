@@ -4,10 +4,10 @@
         <v-row>
           <v-col cols="12" sm="3">
             <v-card-text class="white--text pt-0">
-              <h3>Giới thiệu 1111</h3>
+              <h3>Giới thiệu</h3>
             </v-card-text>
             <v-card-text class="grey--text pt-0">
-              Kínhasaass mắt thời trang Chasmish là thương hiệu uy tín,<br />
+              Kính mắt thời trang Chasmish là thương hiệu uy tín,<br />
                chất lượng tại Việt Nam phục vụ nhu cầu mua<br /> sắm online và trực tuyến trên toàn quốc
 
             </v-card-text>
