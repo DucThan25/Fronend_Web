@@ -4,7 +4,7 @@
         <v-row>
           <v-col cols="12" sm="3">
             <v-card-text class="white--text pt-0">
-              <h3>Giới thiệu</h3>
+              <h3>Giới thiệu Giang</h3>
             </v-card-text>
             <v-card-text class="grey--text pt-0">
               Kính mắt thời trang Chasmish là thương hiệu uy tín,<br />
